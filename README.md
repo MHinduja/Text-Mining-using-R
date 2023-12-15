@@ -1,12 +1,9 @@
-Hotel Reviews Sentiment Analysis
+#Hotel Reviews Sentiment Analysis
 Introduction
 This R script performs sentiment analysis on a dataset of hotel reviews. The analysis includes language detection, text cleaning, and two approaches for sentiment analysis using different methods.
 
 Prerequisites
 Make sure to install the required R packages before running the script. You can install them using the following commands:
-
-R
-Copy code
 install.packages("syuzhet")
 install.packages("textcat")
 install.packages("NLP")
